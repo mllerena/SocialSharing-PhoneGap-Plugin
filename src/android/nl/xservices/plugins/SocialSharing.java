@@ -2,7 +2,7 @@ package nl.xservices.plugins;
 
 import nl.xservices.plugins.*;
 
-import android.annotation.SuppressLint;
+import android.annotation.SuppressLint;f
 import android.app.PendingIntent;
 import android.app.Activity;
 import android.content.*;
