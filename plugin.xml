@@ -68,6 +68,12 @@
         <param name="android-package" value="nl.xservices.plugins.SocialSharing" />
       </feature>
     </config-file>
+          
+    <config-file target="res/values/styles.xml" parent="/resources/style">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </config-file>
 
 
 
